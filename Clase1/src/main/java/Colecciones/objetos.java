@@ -13,7 +13,7 @@ public class objetos {
     
     public void objetos(int valor1, int valor2){
         this.valor1 = valor1;
-        this.valor2 = valor2;
+      
     }
     public void objetos(int valor1, int valor2, String pata){
         this.valor1 = valor1;
